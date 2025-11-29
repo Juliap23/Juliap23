@@ -1,4 +1,4 @@
-#Hey. Jestem Julia!
+Hey. Jestem Julia!
 Jestem studentką 3 roku studiów 
 
 ## Technologies
