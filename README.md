@@ -8,4 +8,4 @@ Jestem studentką 3 roku studiów
 ![Static Badge](https://img.shields.io/badge/sql-003B57?style=flat&logoColor=hex&labelColor=css&color=red)
 
 # Statystyki
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliap23&theme=transparent_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliap23&theme=transparent_icons=true)
