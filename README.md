@@ -11,4 +11,4 @@ Jestem studentką 3 roku studiów
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliap23&stats_format=bytes)
 
 # Statystyki
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliap23&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliap23&show_icons=true&theme=radical)
