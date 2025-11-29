@@ -8,4 +8,7 @@ Jestem studentką 3 roku studiów
 ![Static Badge](https://img.shields.io/badge/sql-003B57?style=flat&logoColor=hex&labelColor=css&color=red)
 
 # Języki
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliap23&stats_format=bytes)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliap23&stats_format=bytes)
+
+# Statystyki
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliap23&show_icons=true)
